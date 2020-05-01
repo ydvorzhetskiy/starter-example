@@ -1,0 +1,3 @@
+# resources/META_INF/spring.factories
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.martianpost.martiantime.MartianTimeAutoConfiguration
